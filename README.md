@@ -11,4 +11,4 @@
 ## Project Screenshot
 
 ![NBA-web](./Screenshot.PNG)
-Note: please allow the insecure content to load in order to see the full project.
+**Note: please allow the insecure content to load in order to see the full project in your browser.**
