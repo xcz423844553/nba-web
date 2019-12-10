@@ -10,5 +10,5 @@
 
 ## Project Screenshot
 
-![NBA-web](https://github.com/xcz423844553/nba-web/Screenshot.PNG)
+![NBA-web](https://github.com/xcz423844553/nba-web/master/Screenshot.PNG)
 Note: please allow the insecure content to load in order to see the full project.
