@@ -1,4 +1,5 @@
 # NBA Shot Chart
+[http://xcz423844553.github.io/nba-web](http://xcz423844553.github.io/nba-web)
 
 ## React JS based NBA player strength visualization
 
